@@ -39,7 +39,7 @@ Suite of 5 CUDA kernels achieving 2×+ speedups for grayscale image processing w
 
 ## 📫 Let’s Connect
 
-📄 Resume coming soon
+📄 Resume coming soon  
 🔗 [LinkedIn](https://www.linkedin.com/in/ssam-zhang)  
 💌 sam.zhangv1.0@gmail.com
 
