@@ -20,7 +20,7 @@ AI agents for Checkers, Hua Rong Dao, and Battleship using A*, Minimax, and CSP 
 🎮 **[Scrimmy-Bot](https://github.com/Dam-Sam/Scrimmy-Bot)**  
 Python Discord bot for scrim balancing, roles, and moderation — built for speed and community fun.
 
-🖼️ **[CUDA Image Filtering]** *(coming soon)*  
+🖼️ **[CUDA Image Filtering](https://github.com/Dam-Sam/CUDA-image-filter)**
 Suite of 5 CUDA kernels achieving 2×+ speedups for grayscale image processing with fused compute and reduction.
 
 🌐 **[Three.js Journey](https://github.com/Dam-Sam/Three-js-Journey)**  
@@ -38,8 +38,7 @@ Suite of 5 CUDA kernels achieving 2×+ speedups for grayscale image processing w
 ---
 
 ## 📫 Let’s Connect
-
-📄 Resume coming soon  
+  
 🔗 [LinkedIn](https://www.linkedin.com/in/ssam-zhang)  
 💌 sam.zhangv1.0@gmail.com
 
